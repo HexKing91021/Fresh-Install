@@ -27,7 +27,9 @@ Now install the Boxstarter modules:
 Now that everything is set up, we can start the installation of your programs:
 
 ```
-Install-BoxstarterPackage -PackageName [insertLinkHere] -DisableReboots
+Install-BoxstarterPackage -PackageName https://raw.githubusercontent.com/HexKing91021/Fresh-Install/main/Packages/Base.txt -DisableReboots
 ```
+
+The command above installs the programs listed in [Packages/Base.txt](Packages/Base.txt). You can substitute this for your own packages as needed.
 
 The community package directory can be found [here](https://community.chocolatey.org/packages).
