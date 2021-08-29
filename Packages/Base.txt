@@ -1,11 +1,10 @@
 Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowFileExtensions
 
+cinst geforce-game-ready-driver
 cinst googlechrome
 cinst discord
 cinst telegram
 cinst reflect-free
-cinst logitechgaming
-cinst geforce-game-ready-driver
-cinst lightshot
+cinst lghub
 cinst vlc
 cinst folder_size
